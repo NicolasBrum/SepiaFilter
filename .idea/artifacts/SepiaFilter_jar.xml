@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SepiaFilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SepiaFilter_jar</output-path>
+    <root id="archive" name="SepiaFilter.jar">
+      <element id="module-output" name="SepiaFilter" />
+    </root>
+  </artifact>
+</component>
