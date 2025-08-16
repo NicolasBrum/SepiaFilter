@@ -14,7 +14,7 @@ O programa lê uma imagem de entrada, percorre cada pixel, extrai os valores **R
 
 ## ⚙️ Como executar
 
-Por enquanto, o recomendado seria fazer o build do artefato .jar, ao executar, passar 2 argumentosÇ
+Por enquanto, o recomendado seria fazer o build do artefato .jar, ao executar, passar 2 argumentos:
 - Caminho onde serã criado a imagem com o filtro aplicado
 - Caminho da imagem a ser 'filtrada'.
 
